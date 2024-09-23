@@ -26,6 +26,6 @@ The message is encoded in its binary code and then sent between two processes us
     ```
 4.  Open another terminal and run `./client {server_PID} {MESSAGE}`.
      ```bash
-    ./server 10254 "This is my minitalk"
+    ./client 10254 "This is my minitalk"
     ```
 </br>
