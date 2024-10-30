@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "minitalk_bonus.h"
+#include "../minitalk_bonus.h"
 
 void	handler(int sig, siginfo_t *info, void *c)
 {
